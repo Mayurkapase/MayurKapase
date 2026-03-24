@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <H1> Hii , I'm Mayur Kapase <H1>
 🔭 I am currently building real-world web apps and projects<br>🤝 I am open to collaborating on full-stack development projects<br>🛠️ I am exploring backend development and real-time systems<br>🌱 I am currently learning full-stack development and problem-solving<br>💬 I am happy to talk about web development, MongoDB, React, Node.js<br>⚡ I am passionate about turning ideas into practical tech 🚀
 
 
