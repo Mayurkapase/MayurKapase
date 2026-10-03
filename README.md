@@ -117,29 +117,6 @@
 
 ---
 
-## 📊 GitHub Productivity & Coding Activity
-
-<div align="center">
-
-<!-- Live Dynamic GitHub Statistics for Mayurkapase -->
-<img src="https://github-readme-stats.vercel.app/api?username=Mayurkapase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mayur's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurkapase&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<!-- Live Dynamic GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurkapase&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
-
-<br/><br/>
-
-<!-- Real-time Contribution Activity Graph -->
-<h3>📈 365-Day Coding Activity Heatmap</h3>
-<img src="https://ghchart.rshah.org/38bdf8/Mayurkapase" alt="Mayur's Real-time GitHub Contribution Chart" width="100%" />
-
-</div>
-
----
-
 ## 📬 Let's Connect!
 
 I am actively interviewing and looking for **Software Engineering** opportunities where I can contribute to building high-scale, resilient applications.
