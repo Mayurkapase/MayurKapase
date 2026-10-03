@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-MayurKapase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayurkapase)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Java+Full+Stack+(Spring+Boot+3+%2B+React+18);MERN+Stack+Web+Developer;Building+Scalable+REST+APIs+%26+Database+Systems;Passionate+about+DSA+%26+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+Full+Stack+(Spring+Boot+3+%2B+React+18);MERN+Stack+Web+Developer;Building+Scalable+REST+APIs+%26+Database+Architectures;Passionate+about+DSA+%26+System+Design" alt="Typing SVG" />
 </p>
 
 </div>
@@ -20,7 +20,7 @@
 - 🎓 **Education**: B.Tech in Information Technology (**2022–2026**), **K. K. Wagh Institute of Engineering Education and Research, Nashik** — **CGPA: 8.12 / 10**.
 - 💼 **Experience**: Former Full Stack Web Development Intern at **ProAzure Software Solutions Pvt. Ltd.**
 - 💻 **Engineering Interests**: Scalable Backend Architecture, Microservices, RESTful API Design, Relational Database Modeling (3NF), and Cloud Containerization.
-- 🌱 **Currently Strengthening**: Advanced Spring Boot 3, Spring Security 6, Distributed Caching, Docker containerization, CI/CD pipelines, and System Design principles.
+- 🌱 **Currently Strengthening**: Advanced Spring Boot 3, Spring Security 6, Distributed Caching, Docker containerization, CI/CD pipelines, and System Design fundamentals.
 - 🤝 **Open For**: **Software Developer**, **Java Full Stack Developer**, and **Backend Engineer** roles (Full-Time & Internships).
 
 ---
@@ -89,21 +89,23 @@
 ## 🚀 Featured Engineering Projects
 
 ### 🌟 [DevTrack — Developer Analytics & Project Management Platform](https://github.com/MayurKapase/DevTrack-Developer-Analytics-Platform)
+> **Direct Repository Link**: 👉 [github.com/MayurKapase/DevTrack-Developer-Analytics-Platform](https://github.com/MayurKapase/DevTrack-Developer-Analytics-Platform)  
 > **Technologies**: Java 21 LTS • Spring Boot 3.2 • Spring Security 6 • MySQL 8 • React 18 • Vite • Docker Compose • Tailwind CSS
 
-- **Real-Time GitHub REST Integration**: Synchronizes official developer profile metadata, followers, public repositories, stargazers, forks, and automated multi-repository language distributions with rate-limit fallback.
-- **Dynamic Milestone Engine**: Engineered hierarchical Project & Task management with real-time mathematical progress tracking ($\text{Progress} = \frac{\text{Completed}}{\text{Total}} \times 100$) and automatic status transitions.
+- **Real-Time GitHub REST Telemetry**: Integrated real-time GitHub APIs to synchronize public repositories, follower metrics, stargazers, forks, and automated multi-repository language distributions with rate-limit fallback.
+- **Dynamic Milestone Engine**: Engineered hierarchical Project & Task management with real-time mathematical progress tracking ($\text{Progress} = \frac{\text{Completed}}{\text{Total}} \times 100$) and automatic status synchronization.
 - **Enterprise Security & Isolation**: Stateless JWT authentication with BCrypt hashing, strict service-level IDOR validation, and a 3NF normalized MySQL database with cascade deletes.
 - **Production Containerization**: Multi-stage Docker build pipeline orchestrated with Docker Compose (MySQL 8, Spring Boot Backend, and Nginx-powered React Frontend).
 
 ---
 
-### 🎓 Smart Automated Assessment System
+### 🎓 [Smart Automated Assessment System](https://github.com/MayurKapase/final-year-project-mern_)
+> **Direct Repository Link**: 👉 [github.com/MayurKapase/final-year-project-mern_](https://github.com/MayurKapase/final-year-project-mern_)  
 > **Technologies**: React.js • Node.js • Express.js • MongoDB • Firebase Authentication • Tailwind CSS
 
 - **Real-Time Proctoring & Activity Tracking**: Built automated coding assessment monitors featuring code-paste detection, tab-switch tracking, and real-time active typing evaluation.
 - **Role-Based Workspaces**: Multi-tier access control matrix tailored for Teachers, Team Leaders, and Students with isolated permissions.
-- **Assessment Management**: Dynamic creation, assignment submission verification, automated grading assistance, and lab performance analytics.
+- **Assessment Management**: Dynamic lab creation, assignment submission verification, automated grading assistance, and student performance analytics.
 
 ---
 
@@ -119,12 +121,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MayurKapase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mayur's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurKapase&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<!-- Live Dynamic GitHub Statistics for Mayurkapase -->
+<img src="https://github-readme-stats.vercel.app/api?username=Mayurkapase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mayur's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurkapase&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MayurKapase&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+<!-- Live Dynamic GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurkapase&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+
+<br/><br/>
+
+<!-- Real-time Contribution Activity Graph -->
+<h3>📈 365-Day Coding Activity Heatmap</h3>
+<img src="https://ghchart.rshah.org/38bdf8/Mayurkapase" alt="Mayur's Real-time GitHub Contribution Chart" width="100%" />
 
 </div>
 
