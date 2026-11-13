@@ -4,7 +4,7 @@
 ### Full Stack Developer | Java Full Stack • MERN Stack • Backend Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayur%20Kapase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-kapase)
-[![Email](https://img.shields.io/badge/Email-mayurkapase276%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurkapase276@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mayurkapase276%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mayurkapase276@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MayurKapase-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayurkapase)
 
 <p align="center">
